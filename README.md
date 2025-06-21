@@ -39,11 +39,6 @@
 ![image](https://github.com/tiedtogether/tiedtogether.github.io/assets/105828651/196164a2-3448-406e-b228-b4b8fe39ae04)
 
 
-
-
-
-
-
 ### Student Features 👨‍🎓
 
 `Sign Up`
