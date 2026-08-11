@@ -101,8 +101,8 @@ Connect:
 
 | Layer | Technology |
 |:---|:---|
-| Frontend | |
-| Backend | |
+| Frontend | | React |
+| Backend | | Java |
 | Database | MongoDB Atlas |
 | Hosting | GitHub Pages |
 
